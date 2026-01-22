@@ -18,9 +18,9 @@ Currently preparing for Data Scientist roles.
 🔗 Web deployment examples  
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/kunal-kumar-xxxx  
+- LinkedIn: https://www.linkedin.com/in/kunalbtech2024  
 - GitHub: https://github.com/kunalkumar2001  
-- Email: your.email@example.com
+- Email: kunalkr696@gmail.com
 
 ## 🎯 GitHub Pages Link
 Your portfolio is hosted here (after enabling Pages):  
